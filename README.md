@@ -1,0 +1,2 @@
+# ordet
+Wordle på svenska
